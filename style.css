@@ -1,0 +1,82 @@
+body{
+    background-color: gainsboro;
+}
+
+.main{
+    border: 5px solid blue;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+#main-head{
+    color:black;
+    border: 6px double black;
+}
+
+.main p{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#head{
+    border: 5px solid violet;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+#head h1{
+    color: rgb(222, 92, 41);
+    border: 6px dotted black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#z-man{
+    color: rgb(51, 15, 168);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#uff h2{
+    color: red;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#uff{
+    font-size: 0.6cm;
+    font-family: monospace;
+}
+
+#correct , #incorrect{
+    font-size: 1cm;
+    border: 15px solid royalblue;
+    color: darkred;
+    font-family: fantasy;
+}
+
+#me,#me1{
+    border: 5px solid black;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#images{
+    background-image: url("./images\ \(2\).jpeg");
+    margin: 25px;
+}
+#me {
+    width: 300px; 
+    height: 300px;
+    margin-left: 390px;
+}
+#me1 {
+    width: 300px; 
+    height: 300px;
+    margin-left: 20px;
+}
+#x{
+    margin-top: 25px;
+    margin-left: 610px;
+}
+button{
+    background-color: black;
+    color: aliceblue;
+    box-shadow: inset;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
